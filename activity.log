@@ -182,3 +182,4 @@
 2023-05-24T00:00:00 - feat: implement algorithm
 2023-05-24T00:00:00 - fix: handle edge cases
 2023-05-24T00:00:00 - docs: update install guide
+2023-05-25T00:00:00 - perf: speed up inference
