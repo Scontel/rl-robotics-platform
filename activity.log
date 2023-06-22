@@ -215,3 +215,4 @@
 2023-06-20T00:00:00 - perf: speed up inference
 2023-06-20T00:00:00 - refactor: modularize
 2023-06-21T00:00:00 - test: add unit tests
+2023-06-22T00:00:00 - fix: resolve bug
