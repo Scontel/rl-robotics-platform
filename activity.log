@@ -270,3 +270,4 @@
 2023-07-04T00:00:00 - perf: speed up inference
 2023-07-05T00:00:00 - refactor: clean up code
 2023-07-05T00:00:00 - feat: add new feature
+2023-07-05T00:00:00 - fix: correct model training
