@@ -415,3 +415,4 @@
 2023-11-16T00:00:00 - perf: speed up inference
 2023-11-22T00:00:00 - test: add integration tests
 2023-11-23T00:00:00 - perf: speed up inference
+2023-11-23T00:00:00 - fix: handle edge cases
