@@ -501,3 +501,4 @@
 2024-01-16T00:00:00 - docs: update README
 2024-01-16T00:00:00 - refactor: clean up code
 2024-01-17T00:00:00 - perf: reduce memory
+2024-01-17T00:00:00 - test: add integration tests
