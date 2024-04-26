@@ -636,3 +636,4 @@
 2024-04-25T00:00:00 - feat: add new feature
 2024-04-26T00:00:00 - docs: update install guide
 2024-04-26T00:00:00 - perf: optimize performance
+2024-04-26T00:00:00 - perf: speed up inference
