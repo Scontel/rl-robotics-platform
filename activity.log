@@ -797,3 +797,4 @@
 2024-08-20T00:00:00 - fix: resolve bug
 2024-08-20T00:00:00 - style: fix formatting
 2024-08-21T00:00:00 - fix: resolve bug
+2024-08-23T00:00:00 - perf: speed up inference
