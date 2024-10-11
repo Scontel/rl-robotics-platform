@@ -867,3 +867,4 @@
 2024-10-10T00:00:00 - feat: add new feature
 2024-10-10T00:00:00 - test: add integration tests
 2024-10-11T00:00:00 - feat: implement algorithm
+2024-10-11T00:00:00 - perf: speed up inference
