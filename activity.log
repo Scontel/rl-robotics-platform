@@ -1013,3 +1013,4 @@
 2025-01-24T00:00:00 - fix: correct model training
 2025-01-27T00:00:00 - feat: add data support
 2025-01-27T00:00:00 - perf: speed up inference
+2025-01-28T00:00:00 - fix: resolve bug
