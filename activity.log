@@ -1015,3 +1015,4 @@
 2025-01-27T00:00:00 - perf: speed up inference
 2025-01-28T00:00:00 - fix: resolve bug
 2025-01-28T00:00:00 - test: improve coverage
+2025-01-30T00:00:00 - test: add integration tests
