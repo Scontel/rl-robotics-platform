@@ -1029,3 +1029,4 @@
 2025-02-11T00:00:00 - fix: handle edge cases
 2025-02-11T00:00:00 - fix: handle edge cases
 2025-02-12T00:00:00 - feat: add new feature
+2025-02-12T00:00:00 - perf: speed up inference
