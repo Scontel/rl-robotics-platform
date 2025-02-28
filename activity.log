@@ -1060,3 +1060,4 @@
 2025-02-28T00:00:00 - refactor: modularize
 2025-02-28T00:00:00 - docs: update README
 2025-02-28T00:00:00 - docs: update install guide
+2025-02-28T00:00:00 - test: add integration tests
