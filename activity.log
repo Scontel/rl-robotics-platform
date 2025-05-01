@@ -1163,3 +1163,4 @@
 2025-04-25T00:00:00 - docs: update README
 2025-04-29T00:00:00 - fix: handle edge cases
 2025-04-29T00:00:00 - docs: update README
+2025-05-01T00:00:00 - perf: speed up inference
