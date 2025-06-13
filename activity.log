@@ -1230,3 +1230,4 @@
 2025-06-11T00:00:00 - test: improve coverage
 2025-06-13T00:00:00 - perf: optimize performance
 2025-06-13T00:00:00 - docs: add API docs
+2025-06-13T00:00:00 - test: add integration tests
