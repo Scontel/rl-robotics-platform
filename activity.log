@@ -1285,3 +1285,4 @@
 2025-07-22T00:00:00 - test: add unit tests
 2025-07-23T00:00:00 - fix: correct model training
 2025-07-23T00:00:00 - refactor: clean up code
+2025-07-23T00:00:00 - docs: update install guide
