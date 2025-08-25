@@ -1323,3 +1323,4 @@
 2025-08-22T00:00:00 - docs: add API docs
 2025-08-22T00:00:00 - docs: add API docs
 2025-08-22T00:00:00 - style: fix formatting
+2025-08-25T00:00:00 - perf: speed up inference
