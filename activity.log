@@ -1377,3 +1377,4 @@
 2025-09-19T00:00:00 - test: add integration tests
 2025-09-22T00:00:00 - refactor: modularize
 2025-09-22T00:00:00 - refactor: modularize
+2025-09-22T00:00:00 - perf: speed up inference
