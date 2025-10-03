@@ -1372,3 +1372,4 @@
 2025-10-02T00:00:00 - refactor: modularize
 2025-10-02T00:00:00 - perf: speed up inference
 2025-10-03T00:00:00 - test: add unit tests
+2025-10-03T00:00:00 - docs: update README
