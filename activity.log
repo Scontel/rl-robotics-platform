@@ -1371,3 +1371,4 @@
 2025-10-01T00:00:00 - perf: optimize performance
 2025-10-02T00:00:00 - refactor: modularize
 2025-10-02T00:00:00 - perf: speed up inference
+2025-10-03T00:00:00 - test: add unit tests
