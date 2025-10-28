@@ -1404,3 +1404,4 @@
 2025-10-27T00:00:00 - perf: reduce memory
 2025-10-27T00:00:00 - perf: speed up inference
 2025-10-27T00:00:00 - feat: add data support
+2025-10-28T00:00:00 - fix: handle edge cases
