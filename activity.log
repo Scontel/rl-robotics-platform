@@ -1449,3 +1449,4 @@
 2025-11-11T00:00:00 - refactor: modularize
 2025-11-11T00:00:00 - docs: update install guide
 2025-11-11T00:00:00 - perf: speed up inference
+2025-11-12T00:00:00 - refactor: clean up code
