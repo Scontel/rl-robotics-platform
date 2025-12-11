@@ -1494,3 +1494,4 @@
 2025-12-10T00:00:00 - fix: correct model training
 2025-12-10T00:00:00 - docs: add API docs
 2025-12-11T00:00:00 - perf: speed up inference
+2025-12-11T00:00:00 - fix: correct model training
