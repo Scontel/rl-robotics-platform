@@ -1507,3 +1507,4 @@
 2025-12-18T00:00:00 - test: improve coverage
 2025-12-18T00:00:00 - refactor: modularize
 2025-12-19T00:00:00 - fix: handle edge cases
+2025-12-19T00:00:00 - docs: add API docs
