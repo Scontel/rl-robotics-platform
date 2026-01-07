@@ -1526,3 +1526,4 @@
 2026-01-05T00:00:00 - feat: add data support
 2026-01-07T00:00:00 - perf: optimize performance
 2026-01-07T00:00:00 - docs: update install guide
+2026-01-07T00:00:00 - fix: handle edge cases
