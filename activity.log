@@ -1551,3 +1551,4 @@
 2026-01-29T00:00:00 - refactor: clean up code
 2026-01-29T00:00:00 - refactor: improve code
 2026-02-02T00:00:00 - test: improve coverage
+2026-02-02T00:00:00 - test: add integration tests
