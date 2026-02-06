@@ -1559,3 +1559,4 @@
 2026-02-03T00:00:00 - fix: handle edge cases
 2026-02-05T00:00:00 - docs: update install guide
 2026-02-06T00:00:00 - docs: update README
+2026-02-06T00:00:00 - perf: speed up inference
